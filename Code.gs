@@ -34,9 +34,9 @@ var CBL_DISABLE_ = false
 // var CBL_NEXT_TRIGGER_MS_ = 2 * 60 * 1000
 var CBL_NEXT_TRIGGER_MS_ = 7 * 60 * 1000 // 7 mins
 
-var CBL_FORCE_TIMEOUT_ = true
+var CBL_FORCE_TIMEOUT_ = false
 
-// var TIME_RUN_OUT_SECONDS = 30
+// var CBL_TIME_RUN_OUT_SECONDS_ = 30
 var CBL_TIME_RUN_OUT_SECONDS_ = 300
 
 var CBL_BATCH_FUNCTION_NAME_ = 'xxxxxxxxxxxxxx'
